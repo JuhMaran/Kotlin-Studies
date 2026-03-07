@@ -9,3 +9,7 @@ Os projetos presentes aqui foram desenvolvidos com base nos cursos:
 - [Desenvolvimento Android Completo - Kotlin & Java](https://www.udemy.com/course/desenvolvimento-android-completo/)
 
 Ao longo deste repositório você encontrará exemplos práticos, pequenos projetos e exercícios que abordam desde **fundamentos da linguagem** até conceitos utilizados no **desenvolvimento Android**.
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,idea,androidstudio,firebase,mysql,maven,sqlite&theme=light)](https://skillicons.dev)
